@@ -10,7 +10,7 @@
 
 ![Default calculator](img/1.png)
 
-![Graph [lotter](img/2.png)
+![Graph plotter](img/2.png)
 
 ![Credit calculator](img/3.png)
 
