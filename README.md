@@ -1,6 +1,8 @@
 # CPP_SmartCalc_v2.0
 🧮➕➖ Implemention of extended version of the usual calculator.
 
+The calculation principle is based on the Reverse Polish Notation and the Dijkstra's algorithm.
+
 ## Install:
 1. Go to /src
 2. Do ```make install```
