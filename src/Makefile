@@ -29,9 +29,7 @@ uninstall:
 	rm ${HOME}/Desktop/Smart\ Calc\ v2.0
 
 dvi:
-	open html/index.html
-#	doxygen -g Doxyfile
-#	doxygen Doxyfile
+	doxygen Doxyfile
 
 dist: install
 	tar -czf s21_smart_calc.tar.gz --directory=s21_smart_calc/ .
